@@ -1,0 +1,58 @@
+[
+    {
+        "image":"./images/seating1.webp",
+        "title":"Nomad Sofa",
+        "price":"$1275 or as low as $107/mo",
+        "imagehover":"./images/seating1_1.webp"
+    },
+    {
+        "image":"./images/seating4.webp",
+        "title":"Nomad Leather Sofa",
+        "price":"$1995 or as low as $125/mo",
+        "imagehover":"./images/seating4_1.webp"
+    },
+    {
+        "image":"./images/seating5.webp",
+        "title":"Nomad Velvet Sofa",
+        "price":"$1455 or as low as $122/mo",
+        "imagehover":"./images/seating5_1.webp"
+    },
+    {
+        "image":"./images/seating3.webp",
+        "title":"Nomad Sofa Sectional",
+        "price":"$1670 or as low as $105/mo",
+        "imagehover":"./images/seating3_1.webp"
+        
+    },
+    {
+        "image":"./images/seating11.webp",
+        "title":"Field 3-Piece Sofa",
+        "price":"$1195 or as low as $100/mo",
+        "imagehover":"./images/seating11_1.webp"
+    },
+    {
+        "image":"./images/seating111.webp",
+        "title":"Range 3-Piece Sofa",
+        "price":"$1195 or as low as $100/mo",
+        "imagehover":"./images/seating111_1.webp"
+    },
+    {
+        "image":"./images/seating2.webp",
+        "title":"Range 3-Piece One Arm Sofa",
+        "price":"$1090 or as low as $91/mo",
+        "imagehover":"./images/seating2_1.webp"
+    },
+    {
+        "image":"./images/seating22.webp",
+        "title":"Union 3-Seat Sofa",
+        "price":"$2245 or as low as $109/mo",
+        "imagehover":"./images/seating22_1.webp"
+    },
+    {
+        "image":"./images/seating222.webp",
+        "title":"Range 4-Piece Sectional Lounger",
+        "price":"$1435 or as low as $120/mo",
+        "imagehover":"./images/seating222_1.webp"
+    }
+    
+]   
